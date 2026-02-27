@@ -14,7 +14,7 @@ require("./config/db.js")
 app.use(cors({
     origin:[
       "http://localhost:5173",
-      "https://stellular-biscochitos-07f3e8.netlify.app"
+      "https://welcomefoodiehub.netlify.app/"
     ],
     credentials: true
 }))
